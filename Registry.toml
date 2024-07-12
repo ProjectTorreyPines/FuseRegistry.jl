@@ -1,0 +1,6 @@
+name = "FuseRegistry"
+uuid = "2efecdb0-7a2e-456a-9eaf-01cb596ca5a1"
+repo = "https://github.com/ProjectTorreyPines/FuseRegistry.jl.git"
+description = "Registry of Julia packages related to FUSE.jl or IMASDD.jl"
+
+[packages]
