@@ -1,4 +1,6 @@
-# Working with the FuseRegistry
+# FuseRegistry
+
+Registry of Julia packages related to FUSE.jl or more broadly to IMASDD.jl
 
 ### Add the FuseRegistry to the list of known registries
 
@@ -7,7 +9,7 @@ using Pkg
 pkg"registry add git@github.com:ProjectTorreyPines/FuseRegistry.jl.git"
 ```
 
-### Adding or updating a private package to the FuseRegistry
+### Adding or updating a package to the FuseRegistry
 
 ```
 using LocalRegistry
