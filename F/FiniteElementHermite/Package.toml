@@ -1,0 +1,3 @@
+name = "FiniteElementHermite"
+uuid = "6ce10167-d368-4c0e-af34-9787cdd175e5"
+repo = "git@github.com:ProjectTorreyPines/FiniteElementHermite.jl.git"
