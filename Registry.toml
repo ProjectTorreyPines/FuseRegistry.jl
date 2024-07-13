@@ -9,4 +9,5 @@ description = "Registry of Julia packages related to FUSE.jl or IMASDD.jl"
 7204ce3a-f536-43d2-be4a-fbed74e90d86 = { name = "CoordinateConventions", path = "C/CoordinateConventions" }
 804828d9-b4e9-4eca-b847-748d6c7bafa9 = { name = "MeshTools", path = "M/MeshTools" }
 8fb689aa-71ff-4044-8071-0cffc910b57d = { name = "Fortran90Namelists", path = "F/Fortran90Namelists" }
+b7b5e640-9b39-4803-84eb-376048795def = { name = "GGDUtils", path = "G/GGDUtils" }
 c82744c2-dc08-461a-8c37-87ab04d0f9b8 = { name = "MillerExtendedHarmonic", path = "M/MillerExtendedHarmonic" }
