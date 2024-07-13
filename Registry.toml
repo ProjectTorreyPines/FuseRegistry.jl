@@ -7,3 +7,4 @@ description = "Registry of Julia packages related to FUSE.jl or IMASDD.jl"
 06b86afa-9f21-11ec-2ef8-e51b8960cfc5 = { name = "IMASDD", path = "I/IMASDD" }
 12ecd31c-256b-4db5-a799-cd5afeb0bd7d = { name = "TJLF", path = "T/TJLF" }
 7204ce3a-f536-43d2-be4a-fbed74e90d86 = { name = "CoordinateConventions", path = "C/CoordinateConventions" }
+8fb689aa-71ff-4044-8071-0cffc910b57d = { name = "Fortran90Namelists", path = "F/Fortran90Namelists" }
