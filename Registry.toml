@@ -18,3 +18,4 @@ description = "Registry of Julia packages related to FUSE.jl or IMASDD.jl"
 a60c9cbd-e72f-4185-96b6-b8fc312c4d37 = { name = "TEQUILA", path = "T/TEQUILA" }
 b7b5e640-9b39-4803-84eb-376048795def = { name = "GGDUtils", path = "G/GGDUtils" }
 c82744c2-dc08-461a-8c37-87ab04d0f9b8 = { name = "MillerExtendedHarmonic", path = "M/MillerExtendedHarmonic" }
+e356478e-5a30-45f6-9775-70cc66e4fbd4 = { name = "FXP", path = "F/FXP" }
