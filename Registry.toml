@@ -8,6 +8,7 @@ description = "Registry of Julia packages related to FUSE.jl or IMASDD.jl"
 09becab6-0636-4c23-a92a-2b3723265c31 = { name = "SOLPS2IMAS", path = "S/SOLPS2IMAS" }
 12ecd31c-256b-4db5-a799-cd5afeb0bd7d = { name = "TJLF", path = "T/TJLF" }
 13ead8c1-b7d1-41bb-a6d0-5b8b65ed587a = { name = "IMAS", path = "I/IMAS" }
+4c86da02-02c8-4634-8460-96566129f8e0 = { name = "FusionMaterials", path = "F/FusionMaterials" }
 6ce10167-d368-4c0e-af34-9787cdd175e5 = { name = "FiniteElementHermite", path = "F/FiniteElementHermite" }
 7204ce3a-f536-43d2-be4a-fbed74e90d86 = { name = "CoordinateConventions", path = "C/CoordinateConventions" }
 804828d9-b4e9-4eca-b847-748d6c7bafa9 = { name = "MeshTools", path = "M/MeshTools" }
