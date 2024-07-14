@@ -1,0 +1,10 @@
+[1]
+FastGaussQuadrature = "442a2c76-b920-505d-bb47-c5924d526838"
+IMAS = "13ead8c1-b7d1-41bb-a6d0-5b8b65ed587a"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MXHEquilibrium = "8efa4e5a-7b9a-4eec-876e-01d13d5b5d75"
+MillerExtendedHarmonic = "c82744c2-dc08-461a-8c37-87ab04d0f9b8"
+PlotUtils = "995b91a9-d308-5afd-9ec6-746e21dbc043"
+RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+TEQUILA = "a60c9cbd-e72f-4185-96b6-b8fc312c4d37"
