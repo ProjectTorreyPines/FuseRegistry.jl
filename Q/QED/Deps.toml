@@ -1,0 +1,8 @@
+[1]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+BandedMatrices = "aae01518-5342-5314-be14-df237901396f"
+FiniteElementHermite = "6ce10167-d368-4c0e-af34-9787cdd175e5"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
