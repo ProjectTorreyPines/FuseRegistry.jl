@@ -25,6 +25,7 @@ a9424c20-d414-11ec-167b-9106c24d956c = { name = "NNeutronics", path = "N/NNeutro
 b7b5e640-9b39-4803-84eb-376048795def = { name = "GGDUtils", path = "G/GGDUtils" }
 c82744c2-dc08-461a-8c37-87ab04d0f9b8 = { name = "MillerExtendedHarmonic", path = "M/MillerExtendedHarmonic" }
 c8e4ee58-0bec-4a6a-b552-9dd24d6374ac = { name = "FuseUtils", path = "F/FuseUtils" }
+d40c7a0e-b328-4954-9d8e-c203ade7593f = { name = "XSteamTP", path = "X/XSteamTP" }
 e356478e-5a30-45f6-9775-70cc66e4fbd4 = { name = "FXP", path = "F/FXP" }
 e64856f0-3bb8-4376-b4b7-c03396503991 = { name = "EPEDNN", path = "E/EPEDNN" }
 f4a0d185-1024-41e7-8ef7-3196bb2f6549 = { name = "ADAS", path = "A/ADAS" }
