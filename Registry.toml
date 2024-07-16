@@ -11,6 +11,7 @@ description = "Registry of Julia packages related to FUSE.jl or IMASDD.jl"
 13ead8c1-b7d1-41bb-a6d0-5b8b65ed587a = { name = "IMAS", path = "I/IMAS" }
 2da5b0d0-c5e5-4f14-9caf-62d0020df410 = { name = "BoundaryPlasmaModels", path = "B/BoundaryPlasmaModels" }
 32ab26d3-25d6-405d-a295-367385e16093 = { name = "SimulationParameters", path = "S/SimulationParameters" }
+40781a8e-f1bb-11ec-24ef-0f6bc40c1567 = { name = "CHEASE", path = "C/CHEASE" }
 4c86da02-02c8-4634-8460-96566129f8e0 = { name = "FusionMaterials", path = "F/FusionMaterials" }
 558c7b13-fd9f-4806-b461-592296cfa9d0 = { name = "TGLFNN", path = "T/TGLFNN" }
 68b8b4ac-b179-4f07-8ae9-c1f1360acbca = { name = "ThermalSystemModels", path = "T/ThermalSystemModels" }
