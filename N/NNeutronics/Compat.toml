@@ -1,0 +1,4 @@
+["0.1.1-0"]
+CSV = "0.10.0-*"
+DataFrames = "1"
+Interpolations = "0.15.0-*"
