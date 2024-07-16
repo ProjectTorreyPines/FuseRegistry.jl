@@ -1,0 +1,6 @@
+["0.1.1-0"]
+BSON = "0.3.0-*"
+Flux = "0.14.0-*"
+Measurements = "2"
+Memoize = "0.4.0-*"
+StatsBase = "0.34.0-*"
