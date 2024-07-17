@@ -29,6 +29,7 @@ c6e34158-aa22-49e4-bb12-15cbcb518ce6 = { name = "SynthDiag", path = "S/SynthDiag
 c82744c2-dc08-461a-8c37-87ab04d0f9b8 = { name = "MillerExtendedHarmonic", path = "M/MillerExtendedHarmonic" }
 c8e4ee58-0bec-4a6a-b552-9dd24d6374ac = { name = "FuseUtils", path = "F/FuseUtils" }
 d40c7a0e-b328-4954-9d8e-c203ade7593f = { name = "XSteamTP", path = "X/XSteamTP" }
+d8db6f1b-e564-4c04-bba3-ef399f78c070 = { name = "SD4SOLPS", path = "S/SD4SOLPS" }
 e356478e-5a30-45f6-9775-70cc66e4fbd4 = { name = "FXP", path = "F/FXP" }
 e64856f0-3bb8-4376-b4b7-c03396503991 = { name = "EPEDNN", path = "E/EPEDNN" }
 e64856f0-3bb8-4376-b4b7-c03396503992 = { name = "FUSE", path = "F/FUSE" }
