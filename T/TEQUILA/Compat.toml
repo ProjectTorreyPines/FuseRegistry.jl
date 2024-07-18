@@ -1,0 +1,17 @@
+[1]
+BSON = "0.3"
+FFTW = "1"
+FiniteElementHermite = "1"
+ForwardDiff = "0.10"
+JuMP = "1"
+LinearSolve = "2"
+NLopt = ["0.6", "1"]
+Optim = "1"
+PlotUtils = "1"
+PreallocationTools = "0.4"
+QuadGK = ["2-2.9.1", "2.9.4-2"]
+RecipesBase = "1"
+Roots = "2"
+SparseArrays = "1"
+StaticArrays = "1"
+julia = "1"
