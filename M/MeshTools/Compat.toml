@@ -1,7 +1,15 @@
 ["0.2.1-0"]
-FileIO = "1"
 Gmsh = "0.3.0-*"
-LRUCache = "1"
 Memoize = "0.4.0-*"
 MeshIO = "0.4.0-*"
 Meshes = "0.45.0-*"
+
+["0.2.1-1"]
+FileIO = "1"
+LRUCache = "1"
+
+[1]
+Gmsh = "0.3"
+Memoize = "0.4"
+MeshIO = "0.4"
+Meshes = "0.45-0.46"
