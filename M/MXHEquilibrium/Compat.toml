@@ -1,21 +1,41 @@
-[0-1]
+[0]
 Interpolations = "0.14.7-*"
 
-["0.2.8-1"]
+["0.2.8-0"]
 Contour = "0.6.0-*"
 EFIT = ["0.1.0", "1"]
 ForwardDiff = "0.10.0-*"
-HCubature = "1"
-LRUCache = "1"
 Memoize = "0.4.0-*"
 NetCDF = "0.12.0-*"
-Optim = "1"
 PolygonOps = "0.1.0-*"
-StaticArrays = "1"
-Trapz = "2"
 Zygote = "0.6.0-*"
 
-[1]
+["0.2.8-1"]
+HCubature = "1"
+LRUCache = "1"
+Optim = "1"
+StaticArrays = "1"
+Trapz = "2"
+
+["1.0.0"]
+Contour = "0.6.0-*"
 CoordinateConventions = "1"
+EFIT = ["0.1.0", "1"]
+ForwardDiff = "0.10.0-*"
+Interpolations = "0.14.7-*"
+Memoize = "0.4.0-*"
 MeshTools = "1"
 MillerExtendedHarmonic = "1"
+NetCDF = "0.12.0-*"
+PolygonOps = "0.1.0-*"
+Zygote = "0.6.0-*"
+
+["1.0.1-1"]
+Contour = "0.6"
+EFIT = "1"
+ForwardDiff = "0.10"
+Interpolations = "0.14.7-0.15"
+Memoize = "0.4"
+NetCDF = "0.12"
+PolygonOps = "0.1"
+Zygote = "0.6"
