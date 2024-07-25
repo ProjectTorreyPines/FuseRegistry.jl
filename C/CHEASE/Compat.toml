@@ -3,3 +3,9 @@ EFIT = "0.1.0"
 
 ["0.1.1-0"]
 EFIT = ["0.1.0", "1"]
+
+[1]
+EFIT = "1"
+Fortran90Namelists = "0.1"
+MXHEquilibrium = "0.2"
+MillerExtendedHarmonic = "1"
