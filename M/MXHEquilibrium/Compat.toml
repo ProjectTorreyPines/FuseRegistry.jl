@@ -1,7 +1,7 @@
-[0]
+[0-1]
 Interpolations = "0.14.7-*"
 
-["0.2.8-0"]
+["0.2.8-1"]
 Contour = "0.6.0-*"
 EFIT = ["0.1.0", "1"]
 ForwardDiff = "0.10.0-*"
@@ -14,3 +14,8 @@ PolygonOps = "0.1.0-*"
 StaticArrays = "1"
 Trapz = "2"
 Zygote = "0.6.0-*"
+
+[1]
+CoordinateConventions = "1"
+MeshTools = "1"
+MillerExtendedHarmonic = "1"
