@@ -1,4 +1,9 @@
 [1]
-IMASDD = "06b86afa-9f21-11ec-2ef8-e51b8960cfc5"
 Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
 PolygonOps = "647866c9-e3ac-4575-94e7-e3d426903924"
+
+["1-1.0.1"]
+IMASDD = "06b86afa-9f21-11ec-2ef8-e51b8960cfc5"
+
+["1.0.2-1"]
+IMASdd = "c5a45a97-b3f9-491c-b9a7-aa88c3bc0067"
