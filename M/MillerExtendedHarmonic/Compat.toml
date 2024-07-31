@@ -7,3 +7,6 @@ RecipesBase = "1"
 
 [1]
 Dierckx = "0.5"
+
+["1.0.1-1"]
+julia = "1"
