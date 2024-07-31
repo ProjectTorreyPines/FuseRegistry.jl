@@ -3,7 +3,7 @@ ADAS = "1"
 BoundaryPlasmaModels = "0.1"
 CoordinateConventions = "1"
 FXP = "1"
-IMASDD = "1"
+IMASdd = "1"
 XSteam = "99"
 
 ["0.1.4-0"]

@@ -39,7 +39,7 @@ PolygonOps = "0.1"
 Ratios = "0.4"
 
 ["1-1.2.0"]
-IMASDD = "1"
+IMASdd = "1"
 
 ["1.2.1-1"]
 IMASdd = "2"

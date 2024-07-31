@@ -1,6 +1,6 @@
 # FuseRegistry
 
-Registry of Julia packages related to FUSE.jl or more broadly to IMASDD.jl
+Registry of Julia packages related to FUSE.jl or more broadly to IMASdd.jl
 
 ### Add the FuseRegistry to the list of known registries
 

@@ -1,7 +1,7 @@
 [1]
 ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
 ColorSchemes = "35d6a980-a343-548e-a6ea-1d62b119f2f4"
-IMASDD = "06b86afa-9f21-11ec-2ef8-e51b8960cfc5"
+IMASdd = "c5a45a97-b3f9-491c-b9a7-aa88c3bc0067"
 Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
 NearestNeighbors = "b8a86587-4115-5ab1-83bc-aa920d37bbce"
 RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"

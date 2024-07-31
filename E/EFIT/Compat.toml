@@ -2,7 +2,7 @@
 julia = "1.2.0-1"
 
 ["1.0.1"]
-IMASDD = "1"
+IMASdd = "1"
 
 ["1.0.1-1"]
 Interpolations = "0.14.7-0.15"
