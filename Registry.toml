@@ -1,10 +1,9 @@
 name = "FuseRegistry"
 uuid = "2efecdb0-7a2e-456a-9eaf-01cb596ca5a1"
 repo = "https://github.com/ProjectTorreyPines/FuseRegistry.jl.git"
-description = "Registry of Julia packages related to FUSE.jl or IMASDD.jl"
+description = "Registry of Julia packages related to FUSE.jl or IMASdd.jl"
 
 [packages]
-06b86afa-9f21-11ec-2ef8-e51b8960cfc5 = { name = "IMASDD", path = "I/IMASDD" }
 081d0416-0f87-42c0-8034-5895805e76d8 = { name = "NEO", path = "N/NEO" }
 09becab6-0636-4c23-a92a-2b3723265c31 = { name = "SOLPS2IMAS", path = "S/SOLPS2IMAS" }
 12ecd31c-256b-4db5-a799-cd5afeb0bd7d = { name = "TJLF", path = "T/TJLF" }
