@@ -3,3 +3,9 @@ FastGaussQuadrature = "1"
 PlotUtils = "1"
 RecipesBase = "1"
 StaticArrays = "1"
+
+["1.2-1"]
+IMAS = "1"
+MXHEquilibrium = "1"
+MillerExtendedHarmonic = "1"
+TEQUILA = "1"

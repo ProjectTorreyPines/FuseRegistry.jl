@@ -8,3 +8,6 @@ PlotUtils = "995b91a9-d308-5afd-9ec6-746e21dbc043"
 RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 TEQUILA = "a60c9cbd-e72f-4185-96b6-b8fc312c4d37"
+
+["1.2-1"]
+FusionMaterials = "4c86da02-02c8-4634-8460-96566129f8e0"
