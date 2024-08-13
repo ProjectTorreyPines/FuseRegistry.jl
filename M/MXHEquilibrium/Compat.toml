@@ -39,3 +39,8 @@ Memoize = "0.4"
 NetCDF = "0.12"
 PolygonOps = "0.1"
 Zygote = "0.6"
+
+["1.0.2-1"]
+CoordinateConventions = "1"
+MeshTools = "1"
+MillerExtendedHarmonic = "1"
