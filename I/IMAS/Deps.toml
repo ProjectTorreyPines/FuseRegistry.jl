@@ -31,3 +31,6 @@ FXP = "e356478e-5a30-45f6-9775-70cc66e4fbd4"
 
 ["1.2.2-1"]
 FuseExchangeProtocol = "43dcb517-7681-482a-b959-351932bd0b36"
+
+["1.4-1"]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
