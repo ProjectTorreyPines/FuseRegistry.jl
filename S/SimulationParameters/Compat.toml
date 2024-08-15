@@ -11,3 +11,6 @@ RecipesBase = "1"
 AbstractTrees = "0.4"
 JSON = "0.21"
 YAML = "0.4"
+
+["1.0.2-1"]
+julia = "1"
