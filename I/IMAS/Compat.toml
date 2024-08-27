@@ -56,3 +56,7 @@ DataInterpolations = "5-6"
 
 ["1.5-1.5.1"]
 Plots = "1"
+
+["1.6-1"]
+FFMPEG = "0.4"
+Plots = "1"
