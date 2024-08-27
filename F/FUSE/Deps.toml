@@ -71,6 +71,9 @@ IMASdd = "c5a45a97-b3f9-491c-b9a7-aa88c3bc0067"
 MeshTools = "804828d9-b4e9-4eca-b847-748d6c7bafa9"
 MillerExtendedHarmonic = "c82744c2-dc08-461a-8c37-87ab04d0f9b8"
 
+["0.1.11-0"]
+FFMPEG = "c87230d0-a227-11e9-1b43-d7ebe4e7570a"
+
 ["0.1.4"]
 XSteam = "95ff35a0-be81-11e9-2ca3-5b4e338e8476"
 
