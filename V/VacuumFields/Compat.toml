@@ -9,3 +9,7 @@ IMAS = "1"
 MXHEquilibrium = "1"
 MillerExtendedHarmonic = "1"
 TEQUILA = "1"
+
+["2.1-2"]
+FusionMaterials = "1"
+Interpolations = "0.14.7-0.15"
