@@ -4,6 +4,7 @@ repo = "https://github.com/ProjectTorreyPines/FuseRegistry.jl.git"
 description = "Registry of Julia packages related to FUSE.jl or IMASdd.jl"
 
 [packages]
+001e48cb-5a1e-4e3c-a5d4-cdc3aa14f3de = { name = "BalanceOfPlantSurogate", path = "B/BalanceOfPlantSurogate" }
 081d0416-0f87-42c0-8034-5895805e76d8 = { name = "NEO", path = "N/NEO" }
 09becab6-0636-4c23-a92a-2b3723265c31 = { name = "SOLPS2IMAS", path = "S/SOLPS2IMAS" }
 12ecd31c-256b-4db5-a799-cd5afeb0bd7d = { name = "TJLF", path = "T/TJLF" }
