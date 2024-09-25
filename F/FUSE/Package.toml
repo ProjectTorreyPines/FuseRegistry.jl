@@ -1,3 +1,3 @@
 name = "FUSE"
 uuid = "e64856f0-3bb8-4376-b4b7-c03396503992"
-repo = "git@github.com:ProjectTorreyPines/FUSE.jl.git"
+repo = "https://github.com/ProjectTorreyPines/FUSE.jl.git"

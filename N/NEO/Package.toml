@@ -1,3 +1,3 @@
 name = "NEO"
 uuid = "081d0416-0f87-42c0-8034-5895805e76d8"
-repo = "git@github.com:ProjectTorreyPines/NEO.jl.git"
+repo = "https://github.com/ProjectTorreyPines/NEO.jl.git"

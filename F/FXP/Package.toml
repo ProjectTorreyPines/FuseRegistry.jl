@@ -1,3 +1,3 @@
 name = "FXP"
 uuid = "e356478e-5a30-45f6-9775-70cc66e4fbd4"
-repo = "git@github.com:ProjectTorreyPines/FXP.jl.git"
+repo = "https://github.com/ProjectTorreyPines/FXP.jl.git"

@@ -1,3 +1,3 @@
 name = "RABBIT"
 uuid = "98960a00-302f-469e-9595-275b70d10766"
-repo = "git@github.com:ProjectTorreyPines/RABBIT.jl.git"
+repo = "https://github.com/ProjectTorreyPines/RABBIT.jl.git"
