@@ -2,7 +2,7 @@
 CoordinateConventions = "7204ce3a-f536-43d2-be4a-fbed74e90d86"
 MeshTools = "804828d9-b4e9-4eca-b847-748d6c7bafa9"
 
-[0-1]
+["0 - 1"]
 EFIT = "cda752c5-6b03-55a3-9e33-132a441b0c17"
 FortranNamelistParser = "8fb689aa-71ff-4044-8071-0cffc910b57d"
 MXHEquilibrium = "8efa4e5a-7b9a-4eec-876e-01d13d5b5d75"
