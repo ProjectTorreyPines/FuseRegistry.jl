@@ -6,7 +6,7 @@ EFIT = ["0.1.0", "1"]
 
 [1]
 EFIT = "1"
-Fortran90Namelists = "0.1"
+FortranNamelistParser = "0.1"
 MillerExtendedHarmonic = "1"
 
 ["1.0.0"]
