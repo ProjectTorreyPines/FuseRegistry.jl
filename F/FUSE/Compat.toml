@@ -1,17 +1,22 @@
 ["0.1.10"]
 IMAS = "1.5.0-1"
 
-["0.1.11-0"]
+["0.1.11 - 0"]
 FFMPEG = "0.4"
 
-["0.1.11-0.1.12"]
+["0.1.11 - 0.1.12"]
 IMAS = "1.6.0-1"
 
-["0.1.13-0.1.21"]
+["0.1.13 - 0.1.21"]
 IMAS = "1.7.0-1"
 
-["0.1.22-0"]
+["0.1.22 - 0.1.23"]
 IMAS = "1.9.0-1"
+
+["0.1.24 - 0"]
+FuseUtils = "1.1.0 - 1"
+IMAS = "1.9.0 - 1"
+VacuumFields = "1.2.0 - 2"
 
 ["0.1.4"]
 ADAS = "1"
@@ -21,7 +26,7 @@ FXP = "1"
 IMASdd = "1"
 XSteam = "99"
 
-["0.1.4-0"]
+["0.1.4 - 0"]
 AbstractTrees = "0.4"
 CHEASE = "1"
 ClusterManagers = "0.4"
@@ -29,7 +34,6 @@ DataFrames = "1"
 DelimitedFiles = "1"
 DifferentialEquations = "7"
 EPEDNN = "1"
-FuseUtils = "1.1.0-1"
 JpegTurbo = "0.1"
 LaTeXStrings = "1"
 LoggingExtras = "1"
@@ -47,13 +51,16 @@ SimulationParameters = "1"
 TGLFNN = "1"
 Weave = "0.10"
 
-["0.1.4-0.1.5"]
+["0.1.4 - 0.1.23"]
+FuseUtils = "1.1.0-1"
+
+["0.1.4 - 0.1.5"]
 VacuumFields = "1"
 
 ["0.1.5"]
 IMAS = "1.2"
 
-["0.1.5-0"]
+["0.1.5 - 0"]
 BoundaryPlasmaModels = "1"
 CSV = "0.10"
 FileIO = "1"
@@ -77,11 +84,11 @@ ThermalSystemModels = "1"
 TimerOutputs = "0.5"
 YAML = "0.4"
 
-["0.1.6-0.1.7"]
+["0.1.6 - 0.1.7"]
 VacuumFields = "2"
 
-["0.1.6-0.1.9"]
+["0.1.6 - 0.1.9"]
 IMAS = "1.4.0-1"
 
-["0.1.8-0"]
+["0.1.8 - 0.1.23"]
 VacuumFields = "1.2.0-2"
