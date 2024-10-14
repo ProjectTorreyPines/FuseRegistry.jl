@@ -21,6 +21,7 @@ description = "Registry of Julia packages related to FUSE.jl or IMASdd.jl"
 804828d9-b4e9-4eca-b847-748d6c7bafa9 = { name = "MeshTools", path = "M/MeshTools" }
 8bcbec86-48c7-11ec-16a6-c1bc83299373 = { name = "QED", path = "Q/QED" }
 8efa4e5a-7b9a-4eec-876e-01d13d5b5d75 = { name = "MXHEquilibrium", path = "M/MXHEquilibrium" }
+8fb689aa-71ff-4044-8071-0cffc910b57d = { name = "Fortran90Namelists", path = "F/Fortran90Namelists" }
 95ff35a0-be81-11e9-2ca3-5b4e338e8476 = { name = "XSteam", path = "X/XSteam" }
 98960a00-302f-469e-9595-275b70d10766 = { name = "RABBIT", path = "R/RABBIT" }
 9d9223b5-c5da-4bf4-abee-2a8bb6775a49 = { name = "VacuumFields", path = "V/VacuumFields" }
