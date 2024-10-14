@@ -19,7 +19,7 @@ YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
 IMASdd = "c5a45a97-b3f9-491c-b9a7-aa88c3bc0067"
 
 ["1.0.1-1"]
-FortranNamelistParser = "8fb689aa-71ff-4044-8071-0cffc910b57d"
+Fortran90Namelists = "8fb689aa-71ff-4044-8071-0cffc910b57d"
 
 ["1.0.3-1"]
 IMAS = "13ead8c1-b7d1-41bb-a6d0-5b8b65ed587a"

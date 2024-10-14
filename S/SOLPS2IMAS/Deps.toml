@@ -9,4 +9,4 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
 
 ["1.0.1-1"]
-FortranNamelistParser = "8fb689aa-71ff-4044-8071-0cffc910b57d"
+Fortran90Namelists = "8fb689aa-71ff-4044-8071-0cffc910b57d"
