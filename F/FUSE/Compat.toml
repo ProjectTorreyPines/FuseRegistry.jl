@@ -23,9 +23,15 @@ IMAS = "1.9.0 - 1"
 ["0.1.26 - 0.1.27"]
 IMAS = "1.10.0 - 1"
 
+["0.1.28"]
+IMAS = "1.11.0 - 1"
+
 ["0.1.28 - 0"]
 BalanceOfPlantSurrogate = "2"
-IMAS = "1.11.0 - 1"
+
+["0.1.29 - 0"]
+IMAS = "1.13.0 - 1"
+SimulationParameters = "1.0.7 - 1"
 
 ["0.1.4"]
 ADAS = "1"
@@ -56,12 +62,14 @@ PolygonOps = "0.1"
 ProgressMeter = "1"
 QuadGK = "2"
 RABBIT = "1"
-SimulationParameters = "1"
 TGLFNN = "1"
 Weave = "0.10"
 
 ["0.1.4 - 0.1.23"]
 FuseUtils = "1.1.0-1"
+
+["0.1.4 - 0.1.28"]
+SimulationParameters = "1"
 
 ["0.1.4 - 0.1.5"]
 VacuumFields = "1"
