@@ -6,7 +6,6 @@ description = "Registry of Julia packages related to FUSE.jl or IMASdd.jl"
 [packages]
 001e48cb-5a1e-4e3c-a5d4-cdc3aa14f3de = { name = "BalanceOfPlantSurrogate", path = "B/BalanceOfPlantSurrogate" }
 081d0416-0f87-42c0-8034-5895805e76d8 = { name = "NEO", path = "N/NEO" }
-09becab6-0636-4c23-a92a-2b3723265c31 = { name = "SOLPS2IMAS", path = "S/SOLPS2IMAS" }
 12ecd31c-256b-4db5-a799-cd5afeb0bd7d = { name = "TJLF", path = "T/TJLF" }
 13ead8c1-b7d1-41bb-a6d0-5b8b65ed587a = { name = "IMAS", path = "I/IMAS" }
 2da5b0d0-c5e5-4f14-9caf-62d0020df410 = { name = "BoundaryPlasmaModels", path = "B/BoundaryPlasmaModels" }
@@ -27,9 +26,7 @@ description = "Registry of Julia packages related to FUSE.jl or IMASdd.jl"
 9d9223b5-c5da-4bf4-abee-2a8bb6775a49 = { name = "VacuumFields", path = "V/VacuumFields" }
 a60c9cbd-e72f-4185-96b6-b8fc312c4d37 = { name = "TEQUILA", path = "T/TEQUILA" }
 a9424c20-d414-11ec-167b-9106c24d956c = { name = "NNeutronics", path = "N/NNeutronics" }
-b7b5e640-9b39-4803-84eb-376048795def = { name = "GGDUtils", path = "G/GGDUtils" }
 c5a45a97-b3f9-491c-b9a7-aa88c3bc0067 = { name = "IMASdd", path = "I/IMASdd" }
-c6e34158-aa22-49e4-bb12-15cbcb518ce6 = { name = "SynthDiag", path = "S/SynthDiag" }
 c82744c2-dc08-461a-8c37-87ab04d0f9b8 = { name = "MillerExtendedHarmonic", path = "M/MillerExtendedHarmonic" }
 c8e4ee58-0bec-4a6a-b552-9dd24d6374ac = { name = "FuseUtils", path = "F/FuseUtils" }
 c9827a86-0873-413c-b74b-de8fe857399a = { name = "GenerateDD", path = "G/GenerateDD" }
