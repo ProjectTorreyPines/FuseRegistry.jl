@@ -1,15 +1,20 @@
-["1.0.1-2"]
+["1.0.1 - 2"]
 FastGaussQuadrature = "1"
 PlotUtils = "1"
 RecipesBase = "1"
 StaticArrays = "1"
 
-["1.2-2"]
+["1.2 - 2"]
 IMAS = "1"
 MXHEquilibrium = "1"
 MillerExtendedHarmonic = "1"
 TEQUILA = "1"
 
-["2.1-2"]
+["2.1 - 2"]
 FusionMaterials = "1"
+
+["2.1 - 2.3"]
 Interpolations = "0.14.7-0.15"
+
+["2.4 - 2"]
+Interpolations = "0.14.7 - 0.15"
