@@ -36,12 +36,17 @@ IMAS = "1.13.0 - 1"
 SimulationParameters = "1.0.7 - 1"
 
 ["0.1.30 - 0"]
-IMAS = "1.14.0 - 1"
 Measurements = "2"
 SimulationParameters = "1.1.0 - 1"
 
+["0.1.30 - 0.1.31"]
+IMAS = "1.14.0 - 1"
+
 ["0.1.31 - 0"]
 VacuumFields = "2.4.0 - 2"
+
+["0.1.32 - 0"]
+IMAS = "1.14.1 - 1"
 
 ["0.1.4"]
 ADAS = "1"
