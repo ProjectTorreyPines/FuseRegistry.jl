@@ -2,7 +2,7 @@
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 XSteamTP = "d40c7a0e-b328-4954-9d8e-c203ade7593f"
 
-[0-1]
+["0 - 1"]
 DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
 GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
 Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
