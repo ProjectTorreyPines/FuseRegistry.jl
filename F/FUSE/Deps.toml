@@ -80,6 +80,9 @@ BalanceOfPlantSurrogate = "001e48cb-5a1e-4e3c-a5d4-cdc3aa14f3de"
 ["0.1.30 - 0"]
 Measurements = "eff96d63-e80a-5855-80a2-b1b0885c5ab7"
 
+["0.1.35 - 0"]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
 ["0.1.4"]
 XSteam = "95ff35a0-be81-11e9-2ca3-5b4e338e8476"
 
