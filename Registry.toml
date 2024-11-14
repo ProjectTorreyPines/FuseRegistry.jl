@@ -37,4 +37,5 @@ d8db6f1b-e564-4c04-bba3-ef399f78c070 = { name = "SD4SOLPS", path = "S/SD4SOLPS" 
 e356478e-5a30-45f6-9775-70cc66e4fbd4 = { name = "FXP", path = "F/FXP" }
 e64856f0-3bb8-4376-b4b7-c03396503991 = { name = "EPEDNN", path = "E/EPEDNN" }
 e64856f0-3bb8-4376-b4b7-c03396503992 = { name = "FUSE", path = "F/FUSE" }
+f2db6eb9-2c54-4c18-912b-ce467796777a = { name = "FRESCO", path = "F/FRESCO" }
 f4a0d185-1024-41e7-8ef7-3196bb2f6549 = { name = "ADAS", path = "A/ADAS" }

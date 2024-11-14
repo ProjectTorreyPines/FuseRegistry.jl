@@ -1,0 +1,11 @@
+[0]
+FFMPEG = "0.4"
+HypergeometricFunctions = "0.3"
+IMAS = "1.4.1 - 1"
+IMASutils = "1"
+Interpolations = "0.15"
+Plots = "1"
+PolygonOps = "0.1"
+RecipesBase = "1"
+StaticArrays = "1"
+VacuumFields = "2.3.0 - 2"
