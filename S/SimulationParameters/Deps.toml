@@ -8,5 +8,8 @@ YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
 ["1.1 - 1"]
 Measurements = "eff96d63-e80a-5855-80a2-b1b0885c5ab7"
 
-["1.1.1 - 1"]
+["1.1.1 - 1.1.4"]
 FuseUtils = "c8e4ee58-0bec-4a6a-b552-9dd24d6374ac"
+
+["1.1.5 - 1"]
+IMASutils = "b8e4ee59-9bed-3a6a-a553-8dd24d6374ad"
