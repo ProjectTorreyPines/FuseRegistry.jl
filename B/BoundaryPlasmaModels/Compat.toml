@@ -1,9 +1,14 @@
 [1]
 ADAS = "1"
-FuseUtils = "1"
 IMAS = "1"
+
+["1 - 1.1.1"]
+FuseUtils = "1"
 
 ["1.0"]
 Formatting = "0.4.3-0.4"
 MillerExtendedHarmonic = "1"
 SimulationParameters = "1"
+
+["1.1.2 - 1"]
+IMASutils = "1"
