@@ -28,7 +28,7 @@ IMAS = "1.10.0 - 1"
 ["0.1.28"]
 IMAS = "1.11.0 - 1"
 
-["0.1.28 - 0"]
+["0.1.28 - 0.1.38"]
 BalanceOfPlantSurrogate = "2"
 
 ["0.1.29"]
@@ -63,6 +63,9 @@ IMAS = "1.15.0 - 1"
 ["0.1.38 - 0"]
 IMASutils = "1.1.2 - 1"
 
+["0.1.39 - 0"]
+BalanceOfPlantSurrogate = "3"
+
 ["0.1.4"]
 ADAS = "1"
 BoundaryPlasmaModels = "0.1"
@@ -77,7 +80,6 @@ CHEASE = "1"
 ClusterManagers = "0.4"
 DataFrames = "1"
 DelimitedFiles = "1"
-DifferentialEquations = "7"
 EPEDNN = "1"
 JpegTurbo = "0.1"
 LaTeXStrings = "1"
@@ -101,6 +103,9 @@ FuseUtils = "1.1.0-1"
 ["0.1.4 - 0.1.28"]
 SimulationParameters = "1"
 
+["0.1.4 - 0.1.38"]
+DifferentialEquations = "7"
+
 ["0.1.4 - 0.1.5"]
 VacuumFields = "1"
 
@@ -119,7 +124,6 @@ JSON = "0.21"
 LibGEOS = "0.9"
 MXHEquilibrium = "1"
 Metaheuristics = "3"
-ModelingToolkit = "9"
 NEO = "1"
 QED = "1"
 SnoopPrecompile = "1"
@@ -127,9 +131,12 @@ SpecialFunctions = "2"
 StaticArrays = "1"
 TEQUILA = "1"
 TJLF = "1"
-ThermalSystemModels = "1"
 TimerOutputs = "0.5"
 YAML = "0.4"
+
+["0.1.5 - 0.1.38"]
+ModelingToolkit = "9"
+ThermalSystemModels = "1"
 
 ["0.1.6 - 0.1.7"]
 VacuumFields = "2"
