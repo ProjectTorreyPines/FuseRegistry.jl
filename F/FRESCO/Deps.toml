@@ -10,3 +10,7 @@ PolygonOps = "647866c9-e3ac-4575-94e7-e3d426903924"
 RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 VacuumFields = "9d9223b5-c5da-4bf4-abee-2a8bb6775a49"
+
+["0.2 - 0"]
+DataInterpolations = "82cc6244-b520-54b8-b5a6-8a565e85f1d0"
+LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"

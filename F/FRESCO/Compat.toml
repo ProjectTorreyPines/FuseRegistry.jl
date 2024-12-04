@@ -1,11 +1,21 @@
 [0]
 FFMPEG = "0.4"
 HypergeometricFunctions = "0.3"
-IMAS = "1.4.1 - 1"
-IMASutils = "1"
 Interpolations = "0.15"
 Plots = "1"
 PolygonOps = "0.1"
 RecipesBase = "1"
 StaticArrays = "1"
+
+["0 - 0.1"]
+IMAS = "1.4.1 - 1"
+IMASutils = "1"
 VacuumFields = "2.3.0 - 2"
+
+["0.2 - 0"]
+DataInterpolations = "6"
+IMAS = "2.1.0 - 2"
+IMASutils = "1.2.1 - 1"
+LoopVectorization = "0.12.171 - 0.12"
+VacuumFields = "2.3.0 - 3"
+julia = "1.11.0 - 1"
