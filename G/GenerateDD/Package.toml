@@ -1,3 +1,3 @@
 name = "GenerateDD"
 uuid = "c9827a86-0873-413c-b74b-de8fe857399a"
-repo = "git@github.com:ProjectTorreyPines/GenerateDD.jl.git"
+repo = "https://github.com/ProjectTorreyPines/GenerateDD.jl.git"
