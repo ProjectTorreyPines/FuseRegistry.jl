@@ -13,3 +13,6 @@ FuseUtils = "c8e4ee58-0bec-4a6a-b552-9dd24d6374ac"
 
 ["1.1.5 - 1"]
 IMASutils = "b8e4ee59-9bed-3a6a-a553-8dd24d6374ad"
+
+["1.2.1 - 1"]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
