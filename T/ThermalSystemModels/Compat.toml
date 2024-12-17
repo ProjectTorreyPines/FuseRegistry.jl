@@ -3,10 +3,8 @@ ModelingToolkit = ["0.0.0-9.10", "9.16.0-9"]
 
 [1]
 DifferentialEquations = "7"
-GeometryBasics = "0.4"
 Graphs = "1"
 LayeredLayouts = "0.2"
-NonlinearSolve = "3"
 OrdinaryDiffEq = "6"
 Plots = "1"
 Statistics = "1"
@@ -18,7 +16,15 @@ MetaGraphs = "0.7"
 ModelingToolkit = ["9-9.10", "9.16.0-9"]
 Symbolics = "5"
 
+["1 - 1.0.4"]
+GeometryBasics = "0.4"
+NonlinearSolve = "3"
+
 ["1.0.3 - 1"]
 MetaGraphs = "0.7 - 0.8"
 ModelingToolkit = ["9 - 9.10", "9.16.0 - 9"]
 Symbolics = "5 - 6"
+
+["1.0.5 - 1"]
+GeometryBasics = "0.4 - 0.5"
+NonlinearSolve = "3 - 4"
