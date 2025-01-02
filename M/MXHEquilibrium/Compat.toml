@@ -44,8 +44,10 @@ Interpolations = "0.14.7-0.15"
 
 ["1.0.2 - 1"]
 CoordinateConventions = "1"
-MeshTools = "1"
 MillerExtendedHarmonic = "1"
+
+["1.0.2 - 1.0.4"]
+MeshTools = "1"
 
 ["1.0.4 - 1"]
 Interpolations = "0.14.7 - 0.15"
