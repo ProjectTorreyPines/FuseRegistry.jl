@@ -20,6 +20,7 @@ description = "Registry of Julia packages related to FUSE.jl or IMASdd.jl"
 6ce10167-d368-4c0e-af34-9787cdd175e5 = { name = "FiniteElementHermite", path = "F/FiniteElementHermite" }
 7204ce3a-f536-43d2-be4a-fbed74e90d86 = { name = "CoordinateConventions", path = "C/CoordinateConventions" }
 804828d9-b4e9-4eca-b847-748d6c7bafa9 = { name = "MeshTools", path = "M/MeshTools" }
+8217f67a-9bf0-495c-a6dc-30c3fb73287a = { name = "PAM", path = "P/PAM" }
 8bcbec86-48c7-11ec-16a6-c1bc83299373 = { name = "QED", path = "Q/QED" }
 8efa4e5a-7b9a-4eec-876e-01d13d5b5d75 = { name = "MXHEquilibrium", path = "M/MXHEquilibrium" }
 8fb689aa-71ff-4044-8071-0cffc910b57d = { name = "Fortran90Namelists", path = "F/Fortran90Namelists" }
