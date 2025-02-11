@@ -37,10 +37,12 @@ SimulationParameters = "1.0.7 - 1"
 
 ["0.1.30 - 0"]
 Measurements = "2"
-SimulationParameters = "1.1.0 - 1"
 
 ["0.1.30 - 0.1.31"]
 IMAS = "1.14.0 - 1"
+
+["0.1.30 - 0.4"]
+SimulationParameters = "1.1.0 - 1"
 
 ["0.1.31 - 0.2.1"]
 VacuumFields = "2.4.0 - 2"
@@ -159,8 +161,14 @@ IMAS = "2.0.1 - 2"
 ["0.3.4 - 0.3"]
 IMAS = "3"
 
+["0.4"]
+IMAS = "3.1.0 - 3"
+
 ["0.4 - 0"]
 FRESCO = "0.2.3 - 0.2"
-IMAS = "3.1.0 - 3"
 TroyonBetaNN = "1"
 VacuumFields = "3.0.4 - 3"
+
+["0.5 - 0"]
+IMAS = "3.2.0 - 3"
+SimulationParameters = "1.3.0 - 1"
