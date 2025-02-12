@@ -30,6 +30,7 @@ description = "Registry of Julia packages related to FUSE.jl or IMASdd.jl"
 a60c9cbd-e72f-4185-96b6-b8fc312c4d37 = { name = "TEQUILA", path = "T/TEQUILA" }
 a9424c20-d414-11ec-167b-9106c24d956c = { name = "NNeutronics", path = "N/NNeutronics" }
 b8e4ee59-9bed-3a6a-a553-8dd24d6374ad = { name = "IMASutils", path = "I/IMASutils" }
+b9bf819a-2a49-451a-b482-4ce9066e62e1 = { name = "TORBEAM", path = "T/TORBEAM" }
 c0158764-c6e1-428b-a545-31826f389bc8 = { name = "TroyonBetaNN", path = "T/TroyonBetaNN" }
 c5a45a97-b3f9-491c-b9a7-aa88c3bc0067 = { name = "IMASdd", path = "I/IMASdd" }
 c82744c2-dc08-461a-8c37-87ab04d0f9b8 = { name = "MillerExtendedHarmonic", path = "M/MillerExtendedHarmonic" }
