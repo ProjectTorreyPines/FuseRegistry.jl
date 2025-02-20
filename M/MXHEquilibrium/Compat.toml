@@ -37,17 +37,25 @@ ForwardDiff = "0.10"
 Memoize = "0.4"
 NetCDF = "0.12"
 PolygonOps = "0.1"
-Zygote = "0.6"
 
 ["1.0.1 - 1.0.3"]
 Interpolations = "0.14.7-0.15"
 
+["1.0.1 - 1.0.5"]
+Zygote = "0.6"
+
 ["1.0.2 - 1"]
 CoordinateConventions = "1"
-MillerExtendedHarmonic = "1"
 
 ["1.0.2 - 1.0.4"]
 MeshTools = "1"
 
+["1.0.2 - 1.0.5"]
+MillerExtendedHarmonic = "1"
+
 ["1.0.4 - 1"]
 Interpolations = "0.14.7 - 0.15"
+
+["1.0.6 - 1"]
+MillerExtendedHarmonic = "1 - 2"
+Zygote = "0.6.75 - 0.6"
