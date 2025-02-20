@@ -6,6 +6,8 @@ MeshTools = "804828d9-b4e9-4eca-b847-748d6c7bafa9"
 ["0 - 1"]
 EFIT = "cda752c5-6b03-55a3-9e33-132a441b0c17"
 MXHEquilibrium = "8efa4e5a-7b9a-4eec-876e-01d13d5b5d75"
+
+["0 - 1.1.1"]
 MillerExtendedHarmonic = "c82744c2-dc08-461a-8c37-87ab04d0f9b8"
 
 ["1.0"]
