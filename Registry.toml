@@ -17,6 +17,7 @@ description = "Registry of Julia packages related to FUSE.jl or IMASdd.jl"
 4c86da02-02c8-4634-8460-96566129f8e0 = { name = "FusionMaterials", path = "F/FusionMaterials" }
 50b852fb-755b-4f1c-b4e6-649ec8fe8474 = { name = "FusionSpecies", path = "F/FusionSpecies" }
 558c7b13-fd9f-4806-b461-592296cfa9d0 = { name = "TGLFNN", path = "T/TGLFNN" }
+5880b2e8-ad0a-48c9-bacd-30dc9c1357e0 = { name = "HelpPlots", path = "H/HelpPlots" }
 68b8b4ac-b179-4f07-8ae9-c1f1360acbca = { name = "ThermalSystemModels", path = "T/ThermalSystemModels" }
 6ce10167-d368-4c0e-af34-9787cdd175e5 = { name = "FiniteElementHermite", path = "F/FiniteElementHermite" }
 7204ce3a-f536-43d2-be4a-fbed74e90d86 = { name = "CoordinateConventions", path = "C/CoordinateConventions" }
