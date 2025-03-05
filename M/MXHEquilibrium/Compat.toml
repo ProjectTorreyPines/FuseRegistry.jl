@@ -56,6 +56,11 @@ MillerExtendedHarmonic = "1"
 ["1.0.4 - 1"]
 Interpolations = "0.14.7 - 0.15"
 
+["1.0.6"]
+Zygote = "0.6.75 - 0.6"
+
 ["1.0.6 - 1"]
 MillerExtendedHarmonic = "1 - 2"
-Zygote = "0.6.75 - 0.6"
+
+["1.0.7 - 1"]
+Zygote = "0.6.75 - 0.7"
