@@ -16,5 +16,8 @@ FiniteElementHermite = ["0.2", "1"]
 ForwardDiff = "0.10"
 JSON = "0.21"
 
-["1.4.2 - 1"]
+["1.4.2"]
 DataInterpolations = "6"
+
+["1.4.3 - 1"]
+DataInterpolations = "7"
