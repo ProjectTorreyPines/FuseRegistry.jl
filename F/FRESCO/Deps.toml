@@ -1,5 +1,4 @@
 [0]
-FFMPEG = "c87230d0-a227-11e9-1b43-d7ebe4e7570a"
 HypergeometricFunctions = "34004b35-14d8-5ef3-9330-4cdb6864b03a"
 IMAS = "13ead8c1-b7d1-41bb-a6d0-5b8b65ed587a"
 IMASutils = "b8e4ee59-9bed-3a6a-a553-8dd24d6374ad"
@@ -10,6 +9,9 @@ PolygonOps = "647866c9-e3ac-4575-94e7-e3d426903924"
 RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 VacuumFields = "9d9223b5-c5da-4bf4-abee-2a8bb6775a49"
+
+["0 - 0.2.4"]
+FFMPEG = "c87230d0-a227-11e9-1b43-d7ebe4e7570a"
 
 ["0.2 - 0"]
 DataInterpolations = "82cc6244-b520-54b8-b5a6-8a565e85f1d0"
