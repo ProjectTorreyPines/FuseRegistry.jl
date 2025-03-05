@@ -55,8 +55,10 @@ MillerExtendedHarmonic = "1"
 IMASdd = "2.3.0 - 2"
 
 ["1.10 - 3"]
-DataInterpolations = "5 - 6"
 Interpolations = "0.14.7 - 0.15"
+
+["1.10 - 3.3"]
+DataInterpolations = "5 - 6"
 
 ["1.14 - 1.14.1"]
 IMASdd = "2.4.0 - 2"
@@ -119,3 +121,7 @@ MillerExtendedHarmonic = "1 - 2"
 
 ["3.3 - 3"]
 IMASdd = "4"
+
+["3.4 - 3"]
+DataInterpolations = "7"
+HelpPlots = "1.0.1 - 1"
