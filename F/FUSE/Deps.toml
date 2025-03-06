@@ -102,3 +102,6 @@ TroyonBetaNN = "c0158764-c6e1-428b-a545-31826f389bc8"
 
 ["0.5.6 - 0"]
 EGGO = "25cd7528-e4e3-46fe-8df7-7ec8e1454e14"
+
+["0.5.8 - 0"]
+HelpPlots = "5880b2e8-ad0a-48c9-bacd-30dc9c1357e0"
