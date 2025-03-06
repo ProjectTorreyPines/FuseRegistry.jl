@@ -126,4 +126,9 @@ IMASdd = "4"
 
 ["3.4 - 3"]
 DataInterpolations = "7"
+
+["3.4 - 3.4.1"]
 HelpPlots = "1.0.1 - 1"
+
+["3.4.2 - 3"]
+HelpPlots = "1.1.0 - 1"
