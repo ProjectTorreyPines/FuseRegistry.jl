@@ -16,3 +16,6 @@ FFMPEG = "c87230d0-a227-11e9-1b43-d7ebe4e7570a"
 ["0.2 - 0"]
 DataInterpolations = "82cc6244-b520-54b8-b5a6-8a565e85f1d0"
 LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
+
+["0.2.6 - 0"]
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
