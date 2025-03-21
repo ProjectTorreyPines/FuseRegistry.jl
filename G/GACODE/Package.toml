@@ -1,3 +1,3 @@
 name = "GACODE"
 uuid = "bb074124-7a58-47ce-bd41-6b7098184f23"
-repo = "git@github.com:ProjectTorreyPines/GACODE.jl.git"
+repo = "https://github.com/ProjectTorreyPines/GACODE.jl.git"
