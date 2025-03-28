@@ -19,3 +19,6 @@ LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
 
 ["0.2.6 - 0"]
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+
+["0.3 - 0"]
+QED = "8bcbec86-48c7-11ec-16a6-c1bc83299373"
