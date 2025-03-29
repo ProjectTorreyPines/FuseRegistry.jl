@@ -18,3 +18,6 @@ IMASutils = "b8e4ee59-9bed-3a6a-a553-8dd24d6374ad"
 
 ["1.6.4 - 1"]
 ONNXRunTime = "e034b28e-924e-41b2-b98f-d2bbeb830c6a"
+
+["1.6.5 - 1"]
+GACODE = "bb074124-7a58-47ce-bd41-6b7098184f23"
