@@ -19,5 +19,8 @@ JSON = "0.21"
 ["1.4.2"]
 DataInterpolations = "6"
 
-["1.4.3 - 1"]
+["1.4.3"]
 DataInterpolations = "7"
+
+["1.4.4 - 1"]
+DataInterpolations = "7 - 8"
