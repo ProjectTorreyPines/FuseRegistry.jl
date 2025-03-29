@@ -18,8 +18,11 @@ IMASutils = "1"
 ["1.1.3"]
 IMAS = "1 - 2"
 
-["1.1.4 - 1"]
+["1.1.4 - 1.1.5"]
 IMAS = "1 - 3"
+
+["1.1.5"]
+SimulationParameters = "1"
 
 ["1.1.5 - 1"]
 Format = "1"
@@ -27,4 +30,7 @@ Interpolations = "0.15"
 JSON = "0.21"
 NLsolve = "4"
 NumericalIntegration = "0.1 - 0.3"
-SimulationParameters = "1"
+
+["1.1.6 - 1"]
+IMAS = "1 - 4"
+SimulationParameters = "1 - 2"
