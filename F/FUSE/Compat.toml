@@ -35,14 +35,14 @@ BalanceOfPlantSurrogate = "2"
 IMAS = "1.13.0 - 1"
 SimulationParameters = "1.0.7 - 1"
 
+["0.1.30 - 0"]
+Measurements = "2"
+
 ["0.1.30 - 0.1.31"]
 IMAS = "1.14.0 - 1"
 
 ["0.1.30 - 0.4"]
 SimulationParameters = "1.1.0 - 1"
-
-["0.1.30 - 1"]
-Measurements = "2"
 
 ["0.1.31 - 0.2.1"]
 VacuumFields = "2.4.0 - 2"
@@ -56,16 +56,16 @@ IMAS = "1.14.2 - 1"
 ["0.1.34 - 0.1.37"]
 FuseUtils = "1.1.2 - 1"
 
-["0.1.35 - 1"]
+["0.1.35 - 0"]
 Test = "1"
 
 ["0.1.36 - 0.1"]
 IMAS = "1.15.0 - 1"
 
-["0.1.38 - 1"]
+["0.1.38 - 0"]
 IMASutils = "1.1.2 - 1"
 
-["0.1.39 - 1"]
+["0.1.39 - 0"]
 BalanceOfPlantSurrogate = "3"
 
 ["0.1.4"]
@@ -76,19 +76,7 @@ FXP = "1"
 IMASdd = "1"
 XSteam = "99"
 
-["0.1.4 - 0.1.23"]
-FuseUtils = "1.1.0-1"
-
-["0.1.4 - 0.1.28"]
-SimulationParameters = "1"
-
-["0.1.4 - 0.1.38"]
-DifferentialEquations = "7"
-
-["0.1.4 - 0.1.5"]
-VacuumFields = "1"
-
-["0.1.4 - 1"]
+["0.1.4 - 0"]
 AbstractTrees = "0.4"
 CHEASE = "1"
 ClusterManagers = "0.4"
@@ -111,17 +99,22 @@ RABBIT = "1"
 TGLFNN = "1"
 Weave = "0.10"
 
+["0.1.4 - 0.1.23"]
+FuseUtils = "1.1.0-1"
+
+["0.1.4 - 0.1.28"]
+SimulationParameters = "1"
+
+["0.1.4 - 0.1.38"]
+DifferentialEquations = "7"
+
+["0.1.4 - 0.1.5"]
+VacuumFields = "1"
+
 ["0.1.5"]
 IMAS = "1.2"
 
 ["0.1.5 - 0"]
-NEO = "1"
-
-["0.1.5 - 0.1.38"]
-ModelingToolkit = "9"
-ThermalSystemModels = "1"
-
-["0.1.5 - 1"]
 BoundaryPlasmaModels = "1"
 CSV = "0.10"
 FileIO = "1"
@@ -133,6 +126,7 @@ JSON = "0.21"
 LibGEOS = "0.9"
 MXHEquilibrium = "1"
 Metaheuristics = "3"
+NEO = "1"
 QED = "1"
 SnoopPrecompile = "1"
 SpecialFunctions = "2"
@@ -141,6 +135,10 @@ TEQUILA = "1"
 TJLF = "1"
 TimerOutputs = "0.5"
 YAML = "0.4"
+
+["0.1.5 - 0.1.38"]
+ModelingToolkit = "9"
+ThermalSystemModels = "1"
 
 ["0.1.6 - 0.1.7"]
 VacuumFields = "2"
@@ -168,8 +166,6 @@ IMAS = "3.1.0 - 3"
 
 ["0.4 - 0"]
 FRESCO = "0.2.3 - 0.2"
-
-["0.4 - 1"]
 TroyonBetaNN = "1"
 VacuumFields = "3.0.4 - 3"
 
@@ -186,16 +182,7 @@ EGGO = "1"
 IMAS = "3.4.2 - 3"
 
 ["0.5.9 - 0"]
-IMAS = "3.5.0 - 3"
-
-["0.5.9 - 1"]
 HDF5 = "0.17.2 - 0.17"
 HelpPlots = "1"
+IMAS = "3.5.0 - 3"
 TORBEAM = "1"
-
-[1]
-EGGO = "1.1.0 - 1"
-FRESCO = "0.3"
-IMAS = "4"
-NEO = "2"
-SimulationParameters = "2"
