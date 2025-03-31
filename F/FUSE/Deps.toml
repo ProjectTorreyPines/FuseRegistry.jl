@@ -109,3 +109,6 @@ HelpPlots = "5880b2e8-ad0a-48c9-bacd-30dc9c1357e0"
 ["0.5.9 - 0"]
 HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
 TORBEAM = "b9bf819a-2a49-451a-b482-4ce9066e62e1"
+
+["0.6 - 0"]
+GACODE = "bb074124-7a58-47ce-bd41-6b7098184f23"

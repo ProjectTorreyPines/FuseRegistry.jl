@@ -126,7 +126,6 @@ JSON = "0.21"
 LibGEOS = "0.9"
 MXHEquilibrium = "1"
 Metaheuristics = "3"
-NEO = "1"
 QED = "1"
 SnoopPrecompile = "1"
 SpecialFunctions = "2"
@@ -139,6 +138,9 @@ YAML = "0.4"
 ["0.1.5 - 0.1.38"]
 ModelingToolkit = "9"
 ThermalSystemModels = "1"
+
+["0.1.5 - 0.5"]
+NEO = "1"
 
 ["0.1.6 - 0.1.7"]
 VacuumFields = "2"
@@ -165,17 +167,19 @@ IMAS = "3"
 IMAS = "3.1.0 - 3"
 
 ["0.4 - 0"]
-FRESCO = "0.2.3 - 0.2"
 TroyonBetaNN = "1"
 VacuumFields = "3.0.4 - 3"
 
-["0.5 - 0"]
+["0.4 - 0.5"]
+FRESCO = "0.2.3 - 0.2"
+
+["0.5"]
 SimulationParameters = "1.3.0 - 1"
 
 ["0.5 - 0.5.7"]
 IMAS = "3.2.0 - 3"
 
-["0.5.7 - 0"]
+["0.5.7 - 0.5"]
 EGGO = "1"
 
 ["0.5.8"]
@@ -184,5 +188,14 @@ IMAS = "3.4.2 - 3"
 ["0.5.9 - 0"]
 HDF5 = "0.17.2 - 0.17"
 HelpPlots = "1"
-IMAS = "3.5.0 - 3"
 TORBEAM = "1"
+
+["0.5.9 - 0.5"]
+IMAS = "3.5.0 - 3"
+
+["0.6 - 0"]
+EGGO = "1.1.0 - 1"
+FRESCO = "0.3"
+IMAS = "4"
+NEO = "2"
+SimulationParameters = "2"
