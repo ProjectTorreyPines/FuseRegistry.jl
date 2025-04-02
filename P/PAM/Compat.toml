@@ -13,5 +13,8 @@ DifferentialEquations = "7.14.0 - 7"
 Plots = "1"
 julia = "1"
 
-[2]
+["2.0.0"]
 IMAS = "1 - 4"
+
+["2.0.1 - 2"]
+IMAS = "1 - 5"
