@@ -193,9 +193,14 @@ TORBEAM = "1"
 ["0.5.9 - 0.5"]
 IMAS = "3.5.0 - 3"
 
+["0.6"]
+IMAS = "4"
+
 ["0.6 - 0"]
 EGGO = "1.1.0 - 1"
 FRESCO = "0.3"
-IMAS = "4"
 NEO = "2"
 SimulationParameters = "2"
+
+["0.7 - 0"]
+IMAS = "5"
