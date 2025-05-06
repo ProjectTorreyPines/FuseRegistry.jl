@@ -112,3 +112,6 @@ TORBEAM = "b9bf819a-2a49-451a-b482-4ce9066e62e1"
 
 ["0.6 - 0"]
 GACODE = "bb074124-7a58-47ce-bd41-6b7098184f23"
+
+["0.7.2 - 0"]
+NonlinearSolve = "8913a72c-1f9b-4ce2-8d82-65094dcecaec"
