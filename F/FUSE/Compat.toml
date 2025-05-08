@@ -208,7 +208,7 @@ FRESCO = "0.3"
 NEO = "2"
 SimulationParameters = "2"
 
-["0.7 - 0"]
+["0.7"]
 IMAS = "5"
 
 ["0.7.1 - 0"]
@@ -220,3 +220,6 @@ NonlinearSolve = "4.8.0 - 4"
 QED = "1.5.0 - 1"
 RABBIT = "2"
 VacuumFields = "4"
+
+["0.8 - 0"]
+IMAS = "5.2.0 - 5"
