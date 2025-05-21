@@ -22,7 +22,7 @@ Interpolations = "0.14.7-0.15"
 ["2.1 - 4"]
 FusionMaterials = "1"
 
-["2.4 - 4"]
+["2.4 - 3"]
 Interpolations = "0.14.7 - 0.15"
 
 ["2.5.3 - 2"]
@@ -42,3 +42,9 @@ IMAS = "2.0.1 - 4"
 
 ["3.1.2 - 4"]
 IMAS = "2.0.1 - 5"
+
+["4.0"]
+Interpolations = "0.14.7 - 0.15"
+
+["4.1 - 4"]
+Interpolations = "0.14.7 - 0.16"
