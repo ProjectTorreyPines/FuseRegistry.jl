@@ -1,4 +1,4 @@
-[1]
+["1 - 2"]
 FileIO = "1"
 RecipesBase = "1"
 
@@ -13,10 +13,7 @@ Colors = "0.12.0-*"
 MD5 = "0.2.0-*"
 
 ["1.0.2 - 1"]
-AbstractTrees = "0.4"
 Interpolations = "0.15"
-LaTeXStrings = "1"
-MD5 = "0.2"
 
 ["1.0.2 - 1.0.3"]
 JLD2 = "0.4"
@@ -24,8 +21,16 @@ JLD2 = "0.4"
 ["1.0.2 - 1.0.7"]
 Colors = "0.12"
 
-["1.0.4 - 1"]
+["1.0.2 - 2"]
+AbstractTrees = "0.4"
+LaTeXStrings = "1"
+MD5 = "0.2"
+
+["1.0.4 - 2"]
 JLD2 = "0.4 - 0.5"
 
-["1.0.8 - 1"]
+["1.0.8 - 2"]
 Colors = "0.12 - 0.13"
+
+[2]
+Interpolations = "0.15 - 0.16"
