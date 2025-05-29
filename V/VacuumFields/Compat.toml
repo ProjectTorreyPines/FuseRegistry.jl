@@ -48,3 +48,6 @@ Interpolations = "0.14.7 - 0.15"
 
 ["4.1 - 4"]
 Interpolations = "0.14.7 - 0.16"
+
+["4.2 - 4"]
+LoopVectorization = "0.12.172 - 0.12"
