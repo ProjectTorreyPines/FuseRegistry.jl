@@ -115,3 +115,6 @@ GACODE = "bb074124-7a58-47ce-bd41-6b7098184f23"
 
 ["0.7.2 - 0"]
 NonlinearSolve = "8913a72c-1f9b-4ce2-8d82-65094dcecaec"
+
+["0.8.2 - 0"]
+FixedPointAcceleration = "817d07cb-a79a-5c30-9a31-890123675176"
