@@ -1,0 +1,7 @@
+[1]
+GACODE = "bb074124-7a58-47ce-bd41-6b7098184f23"
+IMAS = "13ead8c1-b7d1-41bb-a6d0-5b8b65ed587a"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+Trapz = "592b5752-818d-11e9-1e9a-2b8ca4a44cd1"
