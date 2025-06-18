@@ -95,7 +95,6 @@ Plots = "1"
 PolygonOps = "0.1"
 ProgressMeter = "1"
 QuadGK = "2"
-TGLFNN = "1"
 Weave = "0.10"
 
 ["0.1.4 - 0.1.23"]
@@ -112,6 +111,9 @@ VacuumFields = "1"
 
 ["0.1.4 - 0.7.1"]
 RABBIT = "1"
+
+["0.1.4 - 0.8.6"]
+TGLFNN = "1"
 
 ["0.1.5"]
 IMAS = "1.2"
@@ -233,11 +235,21 @@ IMAS = "5.2.0 - 5"
 ["0.8.1 - 0"]
 FRESCO = "0.3 - 0.4"
 Interpolations = ["0.15", "0.16.1 - 0.16"]
+
+["0.8.1 - 0.8.6"]
 NEO = "2.1.0 - 2"
 
 ["0.8.2 - 0"]
 FixedPointAcceleration = "1.0.1 - 1"
+
+["0.8.2 - 0.8.6"]
 IMAS = "5.4.0 - 5"
 
 ["0.8.6 - 0"]
 EGGO = "2"
+
+["0.8.7 - 0"]
+IMAS = "5.4.4 - 5"
+NeoclassicalTransport = "1"
+Serialization = "1.11.0 - 1"
+TurbulentTransport = "1"
