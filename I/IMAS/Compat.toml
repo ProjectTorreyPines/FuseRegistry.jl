@@ -165,3 +165,8 @@ IMASdd = "7"
 
 ["5.4.1 - 5"]
 IMASdd = "7.1.0 - 7"
+
+["5.4.6 - 5"]
+AbstractTrees = "0.4"
+ForwardDiff = ["0.10", "1"]
+NLsolve = "4.5.1 - 4"
