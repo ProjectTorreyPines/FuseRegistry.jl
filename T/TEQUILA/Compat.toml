@@ -2,7 +2,6 @@
 BSON = "0.3"
 FFTW = "1"
 FiniteElementHermite = "1"
-ForwardDiff = "0.10"
 JuMP = "1"
 NLopt = ["0.6", "1"]
 Optim = "1"
@@ -20,6 +19,9 @@ QuadGK = ["2-2.9.1", "2.9.4-2"]
 ["1 - 1.1.5"]
 LinearSolve = "2"
 
+["1 - 1.1.6"]
+ForwardDiff = "0.10"
+
 ["1.1 - 1.1.4"]
 MillerExtendedHarmonic = "1"
 
@@ -35,3 +37,6 @@ MillerExtendedHarmonic = "1 - 2"
 
 ["1.1.6 - 1"]
 LinearSolve = "2 - 3"
+
+["1.1.7 - 1"]
+ForwardDiff = ["0.10", "1"]
