@@ -170,3 +170,6 @@ IMASdd = "7.1.0 - 7"
 AbstractTrees = "0.4"
 ForwardDiff = ["0.10", "1"]
 NLsolve = "4.5.1 - 4"
+
+["5.4.7 - 5"]
+Random = "1.11.0 - 1"
