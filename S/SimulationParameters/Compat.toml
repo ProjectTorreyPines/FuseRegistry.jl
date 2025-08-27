@@ -21,7 +21,7 @@ Measurements = "2"
 ["1.1.1 - 1.1.4"]
 FuseUtils = "1.1.2 - 1"
 
-["1.1.5 - 2"]
+["1.1.5 - 1"]
 IMASutils = "1.1.2 - 1"
 
 ["1.2.1 - 2"]
@@ -39,3 +39,9 @@ HelpPlots = "1"
 Measures = "0.3.2 - 0.3"
 Printf = "1.11.0 - 1"
 Serialization = "1.11.0 - 1"
+
+["2.0"]
+IMASutils = "1.1.2 - 1"
+
+["2.1 - 2"]
+IMASutils = "1.5.1 - 1"
