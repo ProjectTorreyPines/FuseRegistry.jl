@@ -16,3 +16,6 @@ LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 
 [2]
 VacuumFields = "9d9223b5-c5da-4bf4-abee-2a8bb6775a49"
+
+["2.1 - 2"]
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
