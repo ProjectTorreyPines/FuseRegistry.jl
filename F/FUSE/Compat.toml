@@ -133,7 +133,6 @@ SnoopPrecompile = "1"
 SpecialFunctions = "2"
 StaticArrays = "1"
 TEQUILA = "1"
-TJLF = "1"
 TimerOutputs = "0.5"
 YAML = "0.4"
 
@@ -146,6 +145,9 @@ NEO = "1"
 
 ["0.1.5 - 0.7.1"]
 QED = "1"
+
+["0.1.5 - 0.8"]
+TJLF = "1"
 
 ["0.1.5 - 0.8.0"]
 Interpolations = "0.15"
@@ -225,16 +227,20 @@ IMASutils = "1.5.1 - 1"
 
 ["0.7.2 - 0"]
 NonlinearSolve = "4.8.0 - 4"
-QED = "1.5.0 - 1"
 RABBIT = "2"
+
+["0.7.2 - 0.8"]
+QED = "1.5.0 - 1"
 VacuumFields = "4"
 
 ["0.8 - 0.8.1"]
 IMAS = "5.2.0 - 5"
 
 ["0.8.1 - 0"]
-FRESCO = "0.3 - 0.4"
 Interpolations = ["0.15", "0.16.1 - 0.16"]
+
+["0.8.1 - 0.8"]
+FRESCO = "0.3 - 0.4"
 
 ["0.8.1 - 0.8.6"]
 NEO = "2.1.0 - 2"
@@ -249,7 +255,16 @@ IMAS = "5.4.0 - 5"
 EGGO = "2"
 
 ["0.8.7 - 0"]
-IMAS = "5.4.4 - 5"
 NeoclassicalTransport = "1"
 Serialization = "1.11.0 - 1"
 TurbulentTransport = "1"
+
+["0.8.7 - 0.8"]
+IMAS = "5.4.4 - 5"
+
+["0.9 - 0"]
+FRESCO = "0.6"
+IMAS = "6"
+QED = "1.6.0 - 1"
+TJLF = "1.0.16 - 1"
+VacuumFields = "4 - 5"
