@@ -46,7 +46,6 @@ TEQUILA = "a60c9cbd-e72f-4185-96b6-b8fc312c4d37"
 TJLF = "12ecd31c-256b-4db5-a799-cd5afeb0bd7d"
 TimerOutputs = "a759f4b9-e2f1-59dc-863e-4aeb61b1ea8f"
 VacuumFields = "9d9223b5-c5da-4bf4-abee-2a8bb6775a49"
-Weave = "44d3d7a6-8a23-5bf8-98c5-b353f8df5ec9"
 YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
 
 ["0 - 0.1.2"]
@@ -76,6 +75,9 @@ MillerExtendedHarmonic = "c82744c2-dc08-461a-8c37-87ab04d0f9b8"
 ["0 - 0.8.6"]
 NEO = "081d0416-0f87-42c0-8034-5895805e76d8"
 TGLFNN = "558c7b13-fd9f-4806-b461-592296cfa9d0"
+
+["0 - 0.9.1"]
+Weave = "44d3d7a6-8a23-5bf8-98c5-b353f8df5ec9"
 
 ["0.1.11 - 0.5.6"]
 FFMPEG = "c87230d0-a227-11e9-1b43-d7ebe4e7570a"

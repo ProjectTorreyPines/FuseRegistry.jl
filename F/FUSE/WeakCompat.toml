@@ -3,3 +3,6 @@ SciMLBase = ["2.0 - 2.58", "2.60 - 2"]
 
 ["0.1.39 - 0"]
 ThermalSystemModels = "1"
+
+["0.9.2 - 0"]
+Weave = "0.10"
