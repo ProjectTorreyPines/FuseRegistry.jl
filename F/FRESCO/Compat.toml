@@ -70,8 +70,11 @@ VacuumFields = "4.2.0 - 4"
 ["0.5.0"]
 VacuumFields = "5"
 
-["0.5.1 - 0"]
+["0.5.1 - 0.6"]
 VacuumFields = "5.1.0 - 5"
 
 ["0.6.2 - 0"]
 IMAS = "2.2.1 - 6"
+
+["0.7 - 0"]
+VacuumFields = "6"
