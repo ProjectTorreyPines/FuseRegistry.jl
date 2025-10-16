@@ -12,7 +12,7 @@ Formatting = "0.4.3-0.4"
 MillerExtendedHarmonic = "1"
 SimulationParameters = "1"
 
-["1.1.2 - 1"]
+["1.1.2 - 2"]
 IMASutils = "1"
 
 ["1.1.3"]
@@ -24,27 +24,30 @@ IMAS = "1 - 3"
 ["1.1.5"]
 SimulationParameters = "1"
 
-["1.1.5 - 1"]
+["1.1.5 - 1.1.7"]
+Interpolations = "0.15"
+
+["1.1.5 - 2"]
 Format = "1"
 JSON = "0.21"
 NLsolve = "4"
 NumericalIntegration = "0.1 - 0.3"
 
-["1.1.5 - 1.1.7"]
-Interpolations = "0.15"
-
 ["1.1.6"]
 IMAS = "1 - 4"
 
-["1.1.6 - 1"]
+["1.1.6 - 2"]
 SimulationParameters = "1 - 2"
 
 ["1.1.7 - 1.1.8"]
 IMAS = "1 - 5"
 
-["1.1.8 - 1"]
+["1.1.8 - 2"]
 ADAS = "1 - 2"
 Interpolations = "0.15 - 0.16"
 
-["1.1.9 - 1"]
+["1.1.9 - 2"]
 IMAS = "1 - 6"
+
+[2]
+Optim = "1.13.2 - 1"
