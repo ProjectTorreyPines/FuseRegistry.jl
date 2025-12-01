@@ -32,6 +32,7 @@ description = "Registry of Julia packages related to FUSE.jl or IMASdd.jl"
 9bf5e8f4-5746-4003-bc69-ef83265c10ca = { name = "TurbulentTransport", path = "T/TurbulentTransport" }
 9d9223b5-c5da-4bf4-abee-2a8bb6775a49 = { name = "VacuumFields", path = "V/VacuumFields" }
 a60c9cbd-e72f-4185-96b6-b8fc312c4d37 = { name = "TEQUILA", path = "T/TEQUILA" }
+a8b12e34-5c67-89de-f012-345678901234 = { name = "DiscreteControllers", path = "D/DiscreteControllers" }
 a9424c20-d414-11ec-167b-9106c24d956c = { name = "NNeutronics", path = "N/NNeutronics" }
 b8e4ee59-9bed-3a6a-a553-8dd24d6374ad = { name = "IMASutils", path = "I/IMASutils" }
 b9bf819a-2a49-451a-b482-4ce9066e62e1 = { name = "TORBEAM", path = "T/TORBEAM" }
