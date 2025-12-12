@@ -6,7 +6,7 @@ Registry of Julia packages related to FUSE.jl or more broadly to IMASdd.jl
 
 ```
 using Pkg
-pkg"registry add git@github.com:ProjectTorreyPines/FuseRegistry.jl.git"
+pkg"registry add https://github.com/ProjectTorreyPines/FuseRegistry.jl.git"
 ```
 
 ### Adding or updating a package to the FuseRegistry
