@@ -1,2 +1,6 @@
 [0]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+["0.2-0"]
+AdaptiveArrayPools = "5768322a-0810-4546-8322-123456789abc"
+Preferences = "21216c6a-2e73-6563-6e65-726566657250"
