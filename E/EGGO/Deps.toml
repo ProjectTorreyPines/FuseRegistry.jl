@@ -1,4 +1,4 @@
-["1 - 2"]
+[1-2]
 BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
 Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
 IMAS = "13ead8c1-b7d1-41bb-a6d0-5b8b65ed587a"
@@ -8,14 +8,14 @@ Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 RegularizedLeastSquares = "1e9c538a-f78c-5de5-8ffb-0b6dbe892d23"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 
-["1.1 - 2"]
+["1.1-2"]
 HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
 
-["1.1.4 - 2"]
+["1.1.4-2"]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 
 [2]
 VacuumFields = "9d9223b5-c5da-4bf4-abee-2a8bb6775a49"
 
-["2.1 - 2"]
+["2.1-2"]
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
