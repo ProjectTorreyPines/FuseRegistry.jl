@@ -4,19 +4,19 @@ IMASdd = "c5a45a97-b3f9-491c-b9a7-aa88c3bc0067"
 MillerExtendedHarmonic = "c82744c2-dc08-461a-8c37-87ab04d0f9b8"
 NumericalIntegration = "e7bfaba1-d571-5449-8927-abc22e82249b"
 
-["0 - 2"]
+[0-2]
 ADAS = "f4a0d185-1024-41e7-8ef7-3196bb2f6549"
 IMAS = "13ead8c1-b7d1-41bb-a6d0-5b8b65ed587a"
 SimulationParameters = "32ab26d3-25d6-405d-a295-367385e16093"
 
-["1 - 1.1.1"]
+["1-1.1.1"]
 FuseUtils = "c8e4ee58-0bec-4a6a-b552-9dd24d6374ac"
 
 ["1.0"]
 Formatting = "59287772-0a20-5a39-b81b-1366585eb4c0"
 MillerExtendedHarmonic = "c82744c2-dc08-461a-8c37-87ab04d0f9b8"
 
-["1.1 - 2"]
+["1.1-2"]
 Format = "1fa38f19-a742-5d3f-a2b9-30dd87b9d5f8"
 Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
 JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
@@ -26,7 +26,7 @@ NumericalIntegration = "e7bfaba1-d571-5449-8927-abc22e82249b"
 ["1.1.0"]
 IMASdd = "c5a45a97-b3f9-491c-b9a7-aa88c3bc0067"
 
-["1.1.2 - 2"]
+["1.1.2-2"]
 IMASutils = "b8e4ee59-9bed-3a6a-a553-8dd24d6374ad"
 
 [2]
