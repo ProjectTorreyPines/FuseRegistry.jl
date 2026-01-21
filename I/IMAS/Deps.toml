@@ -1,10 +1,10 @@
-["0 - 1.15.5"]
+["0-1.15.5"]
 FuseUtils = "c8e4ee58-0bec-4a6a-b552-9dd24d6374ac"
 
-["0 - 1.2.1"]
+["0-1.2.1"]
 FXP = "e356478e-5a30-45f6-9775-70cc66e4fbd4"
 
-["0 - 6"]
+[0-7]
 Contour = "d38c429a-6771-53c6-b99e-75d170b6e991"
 CoordinateConventions = "7204ce3a-f536-43d2-be4a-fbed74e90d86"
 DataInterpolations = "82cc6244-b520-54b8-b5a6-8a565e85f1d0"
@@ -31,42 +31,42 @@ RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
 Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
-["1.15.6 - 6"]
+["1.15.6-7"]
 IMASutils = "b8e4ee59-9bed-3a6a-a553-8dd24d6374ad"
 
-["1.2.2 - 6"]
+["1.2.2-7"]
 FuseExchangeProtocol = "43dcb517-7681-482a-b959-351932bd0b36"
 
-["1.4 - 1.5.1"]
+["1.4-1.5.1"]
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 
-["1.5.2 - 6"]
+["1.5.2-7"]
 GraphRecipes = "bd48cda9-67a9-57be-86fa-5b3c104eda73"
 Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
 
-["1.6 - 3.4.0"]
+["1.6-3.4.0"]
 FFMPEG = "c87230d0-a227-11e9-1b43-d7ebe4e7570a"
 
-["1.6 - 6"]
+["1.6-7"]
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 
-["2 - 6"]
+[2-7]
 Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
 
-["3.2 - 6"]
+["3.2-7"]
 DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
 
-["3.4 - 6"]
+["3.4-7"]
 HelpPlots = "5880b2e8-ad0a-48c9-bacd-30dc9c1357e0"
 
-["5.4 - 6"]
+["5.4-7"]
 NaturalNeighbours = "f16ad982-4edb-46b1-8125-78e5a8b5a9e6"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 
-["5.4.6 - 6"]
+["5.4.6-7"]
 AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 NLsolve = "2774e3e8-f4cf-5e23-947b-6d7e65073b56"
 
-["5.4.7 - 6"]
+["5.4.7-7"]
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
