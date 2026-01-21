@@ -10,15 +10,15 @@ RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 VacuumFields = "9d9223b5-c5da-4bf4-abee-2a8bb6775a49"
 
-["0 - 0.2.4"]
+["0-0.2.4"]
 FFMPEG = "c87230d0-a227-11e9-1b43-d7ebe4e7570a"
 
-["0.2 - 0"]
+["0.2-0"]
 DataInterpolations = "82cc6244-b520-54b8-b5a6-8a565e85f1d0"
 LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
 
-["0.2.6 - 0"]
+["0.2.6-0"]
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 
-["0.3 - 0"]
+["0.3-0"]
 QED = "8bcbec86-48c7-11ec-16a6-c1bc83299373"
