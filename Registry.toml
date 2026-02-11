@@ -8,6 +8,7 @@ description = "Registry of Julia packages related to FUSE.jl or IMASdd.jl"
 081d0416-0f87-42c0-8034-5895805e76d8 = { name = "NEO", path = "N/NEO" }
 12ecd31c-256b-4db5-a799-cd5afeb0bd7d = { name = "TJLF", path = "T/TJLF" }
 13ead8c1-b7d1-41bb-a6d0-5b8b65ed587a = { name = "IMAS", path = "I/IMAS" }
+1cab822d-7ebb-468b-988d-b3e8a2bd3674 = { name = "RAPID2D", path = "R/RAPID2D" }
 25cd7528-e4e3-46fe-8df7-7ec8e1454e14 = { name = "EGGO", path = "E/EGGO" }
 2da5b0d0-c5e5-4f14-9caf-62d0020df410 = { name = "BoundaryPlasmaModels", path = "B/BoundaryPlasmaModels" }
 32ab26d3-25d6-405d-a295-367385e16093 = { name = "SimulationParameters", path = "S/SimulationParameters" }
