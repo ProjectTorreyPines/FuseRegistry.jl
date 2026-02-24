@@ -51,3 +51,6 @@ VacuumFields = "6"
 
 ["2.5.1-2"]
 IMAS = "3-7"
+
+["2.6-2"]
+LinearOperators = "2.12"

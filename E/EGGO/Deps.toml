@@ -19,3 +19,6 @@ VacuumFields = "9d9223b5-c5da-4bf4-abee-2a8bb6775a49"
 
 ["2.1-2"]
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+
+["2.6-2"]
+LinearOperators = "5c8ed15e-5a4c-59e4-a42b-c7e8811fb125"
