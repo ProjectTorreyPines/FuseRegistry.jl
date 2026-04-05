@@ -1,7 +1,7 @@
 [0]
 Interpolations = "0.14.7-*"
 
-["0.2.8 - 0"]
+["0.2.8-0"]
 Contour = "0.6.0-*"
 EFIT = ["0.1.0", "1"]
 ForwardDiff = "0.10.0-*"
@@ -10,7 +10,7 @@ NetCDF = "0.12.0-*"
 PolygonOps = "0.1.0-*"
 Zygote = "0.6.0-*"
 
-["0.2.8 - 1"]
+["0.2.8-1"]
 HCubature = "1"
 LRUCache = "1"
 Optim = "1"
@@ -30,45 +30,45 @@ NetCDF = "0.12.0-*"
 PolygonOps = "0.1.0-*"
 Zygote = "0.6.0-*"
 
-["1.0.1 - 1"]
+["1.0.1-1"]
 Contour = "0.6"
 EFIT = "1"
 Memoize = "0.4"
 NetCDF = "0.12"
 PolygonOps = "0.1"
 
-["1.0.1 - 1.0.3"]
-Interpolations = "0.14.7-0.15"
-
-["1.0.1 - 1.0.5"]
+["1.0.1-1.0.5"]
 Zygote = "0.6"
 
-["1.0.1 - 1.0.8"]
+["1.0.1-1.0.7"]
+Interpolations = "0.14.7-0.15"
+
+["1.0.1-1.0.8"]
 ForwardDiff = "0.10"
 
-["1.0.2 - 1"]
+["1.0.11-1"]
+AdaptiveArrayPools = "0.3"
+
+["1.0.2-1"]
 CoordinateConventions = "1"
 
-["1.0.2 - 1.0.4"]
+["1.0.2-1.0.4"]
 MeshTools = "1"
 
-["1.0.2 - 1.0.5"]
+["1.0.2-1.0.5"]
 MillerExtendedHarmonic = "1"
 
-["1.0.4 - 1.0.7"]
-Interpolations = "0.14.7 - 0.15"
-
 ["1.0.6"]
-Zygote = "0.6.75 - 0.6"
+Zygote = "0.6.75-0.6"
 
-["1.0.6 - 1"]
-MillerExtendedHarmonic = "1 - 2"
+["1.0.6-1"]
+MillerExtendedHarmonic = "1-2"
 
-["1.0.7 - 1"]
-Zygote = "0.6.75 - 0.7"
+["1.0.7-1"]
+Zygote = "0.6.75-0.7"
 
-["1.0.8 - 1"]
-Interpolations = ["0.14.7 - 0.15", "0.16.1 - 0.16"]
+["1.0.8-1"]
+Interpolations = ["0.14.7-0.15", "0.16.1-0.16"]
 
-["1.0.9 - 1"]
+["1.0.9-1"]
 ForwardDiff = ["0.10", "1"]

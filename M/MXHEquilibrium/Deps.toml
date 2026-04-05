@@ -1,4 +1,4 @@
-["0 - 1"]
+[0-1]
 Contour = "d38c429a-6771-53c6-b99e-75d170b6e991"
 CoordinateConventions = "7204ce3a-f536-43d2-be4a-fbed74e90d86"
 EFIT = "cda752c5-6b03-55a3-9e33-132a441b0c17"
@@ -16,5 +16,8 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 Trapz = "592b5752-818d-11e9-1e9a-2b8ca4a44cd1"
 Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 
-["0 - 1.0.4"]
+["0-1.0.4"]
 MeshTools = "804828d9-b4e9-4eca-b847-748d6c7bafa9"
+
+["1.0.11-1"]
+AdaptiveArrayPools = "4f381ef7-9af0-4cbe-99d4-cf36d7b0f233"
