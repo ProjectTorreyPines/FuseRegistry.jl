@@ -21,3 +21,6 @@ StaticArrays = "1"
 
 ["1.0.7-1"]
 FastGaussQuadrature = "1.0.2-1"
+
+["1.2.1-1"]
+ForwardDiff = "1.3.3-1"

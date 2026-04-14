@@ -12,3 +12,6 @@ LinearMaps = "7a12625a-238d-50fd-b39a-03d52299707e"
 
 ["1.0.7-1"]
 FastGaussQuadrature = "442a2c76-b920-505d-bb47-c5924d526838"
+
+["1.2.1-1"]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
