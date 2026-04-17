@@ -6,3 +6,7 @@ IMASutils = "b8e4ee59-9bed-3a6a-a553-8dd24d6374ad"
 
 ["1.0.6-1"]
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+
+["1.0.9-1"]
+CoordinateConventions = "7204ce3a-f536-43d2-be4a-fbed74e90d86"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
