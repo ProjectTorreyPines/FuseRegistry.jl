@@ -1,2 +1,5 @@
 ["1.1-1"]
 TokamakEnergyTransport = "1"
+
+["1.2.6-1"]
+CUDA = "5"

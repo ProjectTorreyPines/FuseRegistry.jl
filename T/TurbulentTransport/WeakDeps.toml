@@ -1,2 +1,5 @@
 ["1.1-1"]
 TokamakEnergyTransport = "974ab28f-c96e-482d-8977-2c30e3278f36"
+
+["1.2.6-1"]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
