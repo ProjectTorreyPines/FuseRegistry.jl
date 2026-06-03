@@ -90,7 +90,6 @@ Weave = "0.10"
 
 ["0.1.4-1"]
 AbstractTrees = "0.4"
-CHEASE = "1"
 ClusterManagers = "0.4"
 DataFrames = "1"
 DelimitedFiles = "1"
@@ -107,6 +106,9 @@ Plots = "1"
 PolygonOps = "0.1"
 ProgressMeter = "1"
 QuadGK = "2"
+
+["0.1.4-1.1.2"]
+CHEASE = "1"
 
 ["0.1.5"]
 IMAS = "1.2"
