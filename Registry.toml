@@ -13,6 +13,7 @@ description = "Registry of Julia packages related to FUSE.jl or IMASdd.jl"
 2da5b0d0-c5e5-4f14-9caf-62d0020df410 = { name = "BoundaryPlasmaModels", path = "B/BoundaryPlasmaModels" }
 32ab26d3-25d6-405d-a295-367385e16093 = { name = "SimulationParameters", path = "S/SimulationParameters" }
 40781a8e-f1bb-11ec-24ef-0f6bc40c1567 = { name = "CHEASE", path = "C/CHEASE" }
+41b9a3b0-da1d-4d91-9200-eef57ddbf7f7 = { name = "ALPHA", path = "A/ALPHA" }
 43dcb517-7681-482a-b959-351932bd0b36 = { name = "FuseExchangeProtocol", path = "F/FuseExchangeProtocol" }
 46fde914-2a1c-4f77-9b2f-1c21d94fe0f1 = { name = "CoordinatesSystems", path = "C/CoordinatesSystems" }
 4c86da02-02c8-4634-8460-96566129f8e0 = { name = "FusionMaterials", path = "F/FusionMaterials" }
