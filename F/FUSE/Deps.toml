@@ -131,3 +131,13 @@ FixedPointAcceleration = "817d07cb-a79a-5c30-9a31-890123675176"
 ["0.8.7-1"]
 NeoclassicalTransport = "e630bb45-bea9-4e62-953e-b44d0741ac01"
 TurbulentTransport = "9bf5e8f4-5746-4003-bc69-ef83265c10ca"
+
+["1.1.4-1"]
+ALPHA = "41b9a3b0-da1d-4d91-9200-eef57ddbf7f7"
+Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
+LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
+NPZ = "15e1cf62-19b3-5cfa-8e77-841668bca605"
+ONNXRunTime = "e034b28e-924e-41b2-b98f-d2bbeb830c6a"
+ProtoBuf = "3349acd9-ac6a-5e09-bcdb-63829b23a429"
+TJLFEP = "d079e620-cbd9-4d56-ad78-ffea50be2e33"
+ZMQ = "c2297ded-f4af-51ae-bb23-16f91089e4e1"
