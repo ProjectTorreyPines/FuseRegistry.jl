@@ -10,12 +10,14 @@ PCHIPInterpolation = "0.2"
 DataInterpolations = "5"
 
 [0-8]
-OrderedCollections = "1"
 PrecompileTools = "1"
 StaticArraysCore = "1"
 
 ["0-8.4.0"]
 julia = "1"
+
+["0-8.5.0"]
+OrderedCollections = "1"
 
 ["0.1.1-0"]
 AbstractTrees = "0.4.0-*"
@@ -31,8 +33,10 @@ PCHIPInterpolation = "0.2"
 
 [1-8]
 AbstractTrees = "0.4"
-JSON = "0.21"
 TimerOutputs = "0.5"
+
+["1-8.5.0"]
+JSON = "0.21"
 
 ["2.0.2-2.4.4"]
 DataInterpolations = ["5", "6.0"]
@@ -78,3 +82,7 @@ julia = "1.11.0-1"
 
 ["8.4.3-8"]
 FastInterpolations = "0.4.11-0.4"
+
+["8.5.1-8"]
+JSON = ["0.21", "1"]
+OrderedCollections = "1-2"
