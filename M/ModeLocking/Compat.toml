@@ -1,0 +1,7 @@
+[0]
+BSON = "0.3"
+Clustering = "0.15"
+DifferentialEquations = "7"
+Flux = "0.14-0.16"
+Plots = "1"
+julia = "1.10.0-1"
