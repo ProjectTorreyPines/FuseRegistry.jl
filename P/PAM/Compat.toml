@@ -1,23 +1,26 @@
 [0]
-Interpolations = "0.15.1 - 0.15"
-PhysicalConstants = "0.2.3 - 0.2"
-Sundials = "4.26.1 - 4"
+Interpolations = "0.15.1-0.15"
+PhysicalConstants = "0.2.3-0.2"
+Sundials = "4.26.1-4"
 
-["0 - 1"]
-IMAS = "1 - 3"
+[0-1]
+IMAS = "1-3"
 
-["0 - 2"]
-DifferentialEquations = "7.14.0 - 7"
+[0-2]
+DifferentialEquations = "7.14.0-7"
 
-["1 - 2"]
+[1-2]
 Plots = "1"
 julia = "1"
 
 ["2.0.0"]
-IMAS = "1 - 4"
+IMAS = "1-4"
 
 ["2.0.1"]
-IMAS = "1 - 5"
+IMAS = "1-5"
 
-["2.0.2 - 2"]
-IMAS = "1 - 6"
+["2.0.2"]
+IMAS = "1-6"
+
+["2.0.3-2"]
+IMAS = "1-7"
