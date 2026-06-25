@@ -33,3 +33,6 @@ GACODE = "1.0.9-1"
 IMAS = "6-7"
 IMASdd = "8.4.2-8"
 TurbulentTransport = "1.1.4-1"
+
+["2.0.9-2"]
+NLopt = "1.2.1-1"
