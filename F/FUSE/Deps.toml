@@ -141,3 +141,6 @@ ONNXRunTime = "e034b28e-924e-41b2-b98f-d2bbeb830c6a"
 ProtoBuf = "3349acd9-ac6a-5e09-bcdb-63829b23a429"
 TJLFEP = "d079e620-cbd9-4d56-ad78-ffea50be2e33"
 ZMQ = "c2297ded-f4af-51ae-bb23-16f91089e4e1"
+
+["1.1.5-1"]
+PAM = "8217f67a-9bf0-495c-a6dc-30c3fb73287a"

@@ -141,7 +141,6 @@ CSV = "0.10"
 FileIO = "1"
 FusionMaterials = "1"
 GeoInterface = "1"
-JSON = "0.21"
 LibGEOS = "0.9"
 MXHEquilibrium = "1"
 Metaheuristics = "3"
@@ -150,6 +149,9 @@ SpecialFunctions = "2"
 StaticArrays = "1"
 TEQUILA = "1"
 TimerOutputs = "0.5"
+
+["0.1.5-1.1.4"]
+JSON = "0.21"
 
 ["0.1.6-0.1.7"]
 VacuumFields = "2"
@@ -298,3 +300,7 @@ TJLF = "1.2.4-1"
 TJLFEP = "2.0.6-2"
 TroyonBetaNN = "1.1.0-1"
 ZMQ = "1.5.1-1"
+
+["1.1.5-1"]
+JSON = ["0.21", "1"]
+PAM = "2"
