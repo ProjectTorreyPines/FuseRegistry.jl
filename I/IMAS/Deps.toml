@@ -7,11 +7,9 @@ FXP = "e356478e-5a30-45f6-9775-70cc66e4fbd4"
 [0-7]
 Contour = "d38c429a-6771-53c6-b99e-75d170b6e991"
 CoordinateConventions = "7204ce3a-f536-43d2-be4a-fbed74e90d86"
-DataInterpolations = "82cc6244-b520-54b8-b5a6-8a565e85f1d0"
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 ExpiringCaches = "bd5c46ae-da38-4b10-bcdd-5005402f2c4f"
 IMASdd = "c5a45a97-b3f9-491c-b9a7-aa88c3bc0067"
-Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
 Jedis = "b89ccfe0-2c5f-46f6-b89b-da3e1c2e286f"
 LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
@@ -30,6 +28,10 @@ Ratios = "c84ed2f1-dad5-54f0-aa8e-dbefe2724439"
 RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
 Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+["0-7.1.7"]
+DataInterpolations = "82cc6244-b520-54b8-b5a6-8a565e85f1d0"
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
 
 ["1.15.6-7"]
 IMASutils = "b8e4ee59-9bed-3a6a-a553-8dd24d6374ad"
@@ -66,7 +68,13 @@ Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 ["5.4.6-7"]
 AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+
+["5.4.6-7.1.7"]
 NLsolve = "2774e3e8-f4cf-5e23-947b-6d7e65073b56"
 
 ["5.4.7-7"]
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
+["7.1.8-7"]
+FastInterpolations = "9ea80cae-fc13-4c00-8066-6eaedb12f34b"
+SimpleNonlinearSolve = "727e6d20-b764-4bd8-a329-72de5adea6c7"
