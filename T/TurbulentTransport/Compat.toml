@@ -30,5 +30,8 @@ AdaptiveArrayPools = "0.1"
 ["1.2.1-1"]
 AdaptiveArrayPools = "0.3.6-0.3"
 
+["1.2.13-1"]
+Scratch = "1"
+
 ["1.2.6-1"]
 TJLF = "1.2.3-1"
