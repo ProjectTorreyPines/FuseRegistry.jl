@@ -148,3 +148,6 @@ PAM = "8217f67a-9bf0-495c-a6dc-30c3fb73287a"
 ["1.1.6-1"]
 SOLPS2imas = "09becab6-0636-4c23-a92a-2b3723265c31"
 SOLPSNN = "2249bde5-56eb-4cc4-a5e9-f29213b9e947"
+
+["1.2.1-1"]
+CoordinateConventions = "7204ce3a-f536-43d2-be4a-fbed74e90d86"
