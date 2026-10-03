@@ -20,3 +20,7 @@ Measurements = "2"
 Memoize = "0.4"
 SHA = ["0.7", "1"]
 Scratch = "1"
+
+["1.2-1"]
+OffsetArrays = "1.17.0-1"
+SparseArrays = "1.11.0-1"
