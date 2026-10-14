@@ -40,11 +40,11 @@ VacuumFields = "4.1.0-4"
 ["2.0.1-2.2.0"]
 VacuumFields = "4.1.0-5"
 
-["2.1-2"]
-StatsBase = "0.34.5-0.34"
-
 ["2.1-2.5.0"]
 IMAS = "3-6"
+
+["2.1-2.6"]
+StatsBase = "0.34.5-0.34"
 
 ["2.2.1-2"]
 VacuumFields = "6"
@@ -52,5 +52,5 @@ VacuumFields = "6"
 ["2.5.1-2"]
 IMAS = "3-7"
 
-["2.6-2"]
+["2.6"]
 LinearOperators = "2.12"
