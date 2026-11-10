@@ -53,6 +53,7 @@ cda752c5-6b03-55a3-9e33-132a441b0c17 = { name = "EFIT", path = "E/EFIT" }
 d079e620-cbd9-4d56-ad78-ffea50be2e33 = { name = "TJLFEP", path = "T/TJLFEP" }
 d40c7a0e-b328-4954-9d8e-c203ade7593f = { name = "XSteamTP", path = "X/XSteamTP" }
 d8db6f1b-e564-4c04-bba3-ef399f78c070 = { name = "SD4SOLPS", path = "S/SD4SOLPS" }
+e0af53bf-5497-48c6-9e62-bc06a9b1a075 = { name = "IFE", path = "I/IFE" }
 e356478e-5a30-45f6-9775-70cc66e4fbd4 = { name = "FXP", path = "F/FXP" }
 e630bb45-bea9-4e62-953e-b44d0741ac01 = { name = "NeoclassicalTransport", path = "N/NeoclassicalTransport" }
 e64856f0-3bb8-4376-b4b7-c03396503991 = { name = "EPEDNN", path = "E/EPEDNN" }
