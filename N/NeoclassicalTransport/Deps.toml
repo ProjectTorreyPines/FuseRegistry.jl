@@ -24,3 +24,6 @@ Scratch = "6c6a2e73-6563-6170-7368-637461726353"
 ["1.2-1"]
 OffsetArrays = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+
+["2.1-2"]
+Yancc = "e33992e4-cc39-4722-8100-d5327085430f"

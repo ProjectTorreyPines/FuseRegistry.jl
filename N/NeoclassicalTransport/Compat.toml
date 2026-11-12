@@ -26,3 +26,6 @@ Scratch = "1"
 ["1.2-1"]
 OffsetArrays = "1.17.0-1"
 SparseArrays = "1.11.0-1"
+
+["2.1-2"]
+Yancc = "0.1"
