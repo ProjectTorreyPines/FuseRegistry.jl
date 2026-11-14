@@ -26,7 +26,7 @@ DataInterpolations = "6"
 ["1.4.3"]
 DataInterpolations = "7"
 
-["1.4.4-1"]
+["1.4.4-1.6"]
 DataInterpolations = "7-8"
 
 ["1.5.1-1.5"]
@@ -40,3 +40,6 @@ ForwardDiff = ["0.10", "1"]
 
 ["1.6.5-1"]
 JSON = ["0.21", "1"]
+
+["1.7-1"]
+FastInterpolations = "0.4"
