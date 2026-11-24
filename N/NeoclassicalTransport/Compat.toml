@@ -29,3 +29,6 @@ SparseArrays = "1.11.0-1"
 
 ["2.1-2"]
 Yancc = "0.1"
+
+["2.2-2"]
+Measurements = "2"
